@@ -1,4 +1,4 @@
-// App to confert temperature to fahrenheit or celcius
+// App to convert temperature to fahrenheit or celcius
 
 use std::io;
 
